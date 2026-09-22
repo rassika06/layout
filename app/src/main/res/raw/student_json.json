@@ -1,5 +1,12 @@
 {
-  "name": "Sunitha",
-  "department": "CSE",
-  "age": 19
+  "students": [
+    {
+      "name": "Alice",
+      "age": "19"
+    },
+    {
+      "name": "Mary",
+      "age": "22"
+    }
+  ]
 }

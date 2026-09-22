@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "layout"
+rootProject.name = "ex7"
 include(":app")
  

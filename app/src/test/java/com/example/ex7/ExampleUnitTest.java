@@ -1,4 +1,4 @@
-package com.example.layout;
+package com.example.ex7;
 
 import org.junit.Test;
 
